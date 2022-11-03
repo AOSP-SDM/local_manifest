@@ -3,8 +3,8 @@
           
      <remote name="SDM"
             fetch="https://github.com/AOSP-SDM"/>
-     <remote name="AICP"
-            fetch="https://github.com/AICP"/>
+     <remote name="PixelExperience"
+            fetch="https://github.com/PixelExperience"/>
   
   <!-- Device Trees -->
         <project name="device_xiaomi_rova" path="device/xiaomi/rova" remote="SDM" revision="12.1" /> 
