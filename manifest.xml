@@ -3,8 +3,8 @@
           
      <remote name="SDM"
             fetch="https://github.com/AOSP-SDM"/>
-     <remote name="ProjectBlaze"
-            fetch="https://github.com/ProjectBlaze"/>
+     <remote name="Project-Awaken"
+            fetch="https://github.com/Project-Awaken"/>
   
   <!-- Device Trees -->
         <project name="device_xiaomi_rova" path="device/xiaomi/rova" remote="SDM" revision="13.0" /> 
